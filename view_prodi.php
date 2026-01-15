@@ -11,7 +11,7 @@ if (!isset($_SESSION['status']) || $_SESSION['status'] != "login") {
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Program Studi | SIAKAD</title>
+    <title>Program Studi | SIAKAD </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap -->
